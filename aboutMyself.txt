@@ -1,1 +1,8 @@
-
+Title:Miss
+Full name: Nazia Siddiqua Nimra
+USN:1WT24CS404
+Semester:Third
+Section:B
+Branch:CS
+Year of Admission :2024
+College Name: GITW
