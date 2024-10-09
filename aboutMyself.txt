@@ -6,3 +6,5 @@ Section:B
 Branch:CS
 Year of Admission :2024
 College Name: GITW
+SSLC: The East West School
+Diploma : Ghousia Polytechnic For Women 
